@@ -2,7 +2,7 @@
 A simple Powershell script to determine if a given amazon product is currently a good buy
 
 ## Purpose
-During times of COVID-19 with production and manufacturing facilities not operating at peak capacity, prices of good such as pc componenets and other technology may inherantly become more expensive. getAmazonPartStatus.ps1 was created to help determine if now is a good time to buy.
+During times of COVID-19 with production and manufacturing facilities not operating at peak capacity, prices of good such as pc components and other technology may inherantly become more expensive. getAmazonPartStatus.ps1 was created to help determine if now is a good time to buy.
 
 ## How it works
 Using GET requests, we retrieve the product name, current price, and availability of the product directly from that amazon uri provided. Next we retrieve the lowest price recorded for the product from camelcamelcamel.
