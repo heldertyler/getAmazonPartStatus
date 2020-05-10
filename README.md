@@ -8,7 +8,9 @@ During times of COVID-19 with production and manufacturing facilities not operat
 Using GET requests, we retrieve the product name, current price, and availability of the product directly from that amazon uri provided. Next we retrieve the lowest price recorded for the product from camelcamelcamel.
 
 Create txt file with following format for use with -FilePath argument (See Example: partList.txt):
-```<tag with no spaces>|<Amazon Uri>```
+```
+<tag with no spaces>|<Amazon Uri>
+```
 
 ## Features
 * Gets tag and Amazon Uri's from txt file
