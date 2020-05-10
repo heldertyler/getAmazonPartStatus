@@ -1,0 +1,7 @@
+memory|https://www.amazon.com/G-SKILL-TridentZ-32GB-3200Mhz-F4-3200C16D-32GTZR/dp/B07DMNZY56/ref=sr_1_1?dchild=1&keywords=G.Skill+TridentZ+RGB+Series&qid=1589075386&refinements=p_n_feature_five_browse-bin%3A9559990011&rnid=673240011&s=pc&sr=1-1
+cpu_cooler|https://www.amazon.com/Noctua-NH-D15-heatpipe-NF-A15-140mm/dp/B00L7UZMAK/ref=sr_1_3?dchild=1&keywords=Noctua+NH-D15&qid=1589074923&s=electronics&sr=1-3
+case|https://www.amazon.com/NZXT-H510-Management-Water-Cooling-Construction/dp/B07TD9C5HS/ref=sr_1_1?dchild=1&keywords=NZXT+H510&qid=1589074696&s=electronics&sr=1-1
+psu|https://www.amazon.com/SilverStone-Technology-Computer-Modular-SST-ST85F-GS-V2/dp/B07K5Z3W5W/ref=sr_1_1?dchild=1&keywords=SilverStone+Technology+850W&qid=1589074942&s=electronics&sr=1-1
+gpu|https://www.amazon.com/ASUS-GeForce-Overclocked-Graphics-ROG-STRIX-RTX-2080-O11G/dp/B07HY6QWXN/ref=sr_1_1?dchild=1&keywords=ASUS+ROG+STRIX+GeForce+RTX+2080TI&qid=1589074959&s=electronics&sr=1-1
+cpu|https://www.amazon.com/AMD-Ryzen-3950X-32-Thread-Processor/dp/B07ZTYKLZW/ref=sr_1_1?dchild=1&keywords=AMD+Ryzen+9+3950X&qid=1589074978&s=electronics&sr=1-1
+mb|https://www.amazon.com/ASUS-Plus-Gaming-DDR4-SDRAM-Motherboard/dp/B07TNSYXXV/ref=sr_1_1?dchild=1&keywords=ASUS+AM4+TUF+Gaming+X570-Plus&qid=1589075002&s=electronics&sr=1-1
