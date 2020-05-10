@@ -20,7 +20,9 @@ Create txt file with following format for use with -FilePath argument (See Examp
 ## Example
 ```
 PS C:\Users\user> .\Documents\WindowsPowerShell\getAmazonPartStatus.ps1 -FilePath $env:USERPROFILE\Desktop\partList.txt -Timeout 20 | Format-Table -AutoSize                                                                                                                           
-INFO: Amazon Suspects That We Are A Robot. Starting Catcha Test                                                                                                                                                                                                                         Please Enter CAPTCHA: FNPNNR                                                                                                                                                                                                                                                            INFO: Captcha Test Passed
+INFO: Amazon Suspects That We Are A Robot. Starting Catcha Test                                                                         
+Please Enter CAPTCHA: FNPNNR                                                                                                             
+INFO: Captcha Test Passed
 ERROR: price_inside_buybox element not found for case. Part May No Longer Be For Sale. Setting Value to 0
 ERROR: price_inside_buybox element not found for mb. Part May No Longer Be For Sale. Setting Value to 0
 
